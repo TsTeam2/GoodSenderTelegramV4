@@ -14,4 +14,3 @@ Also note that if your CHATID is related to a group or channel, your bot must be
 Follow github for updates: https://github.com/TsTeam2
 
 ![1](https://user-images.githubusercontent.com/120650311/208096246-3fe55a09-78a7-4f2a-bf58-26f447528ae1.png)
-![2](https://www.youtube.com/watch?v=ZPC9y_kiVtA)
