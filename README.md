@@ -10,6 +10,7 @@ Note:
 You must have started the bot using APITOKEN|BOTTOKEN /START, otherwise the bot cannot send you messages.
 Also note that if your CHATID is related to a group or channel, your bot must be a member of that group or channel and have access to send messages.
 
+Video tutorial on using good sender telegram version 4: https://youtu.be/af-7sFpOhWg
 
 Follow github for updates: https://github.com/TsTeam2
 
